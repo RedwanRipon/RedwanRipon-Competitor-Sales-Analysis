@@ -32,32 +32,17 @@ Drilling down into the data for more detailed views.
 
 
 
-Data Sources
 
-The report uses data from the following sources:
-
-[Data Source 1]: Description of the data source.
-[Data Source 2]: Description of the data source.
-
-
-
-Customization
-
-If you need to customize the report:
-
-Open the file in Power BI Desktop.
-Modify the visuals or add new ones using the available data.
-Save the changes as a new .pbix file if needed.
 
 
 
 
 Contributing
 
-If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
+
 
 License
-This project is licensed under the [License Name] License - see the LICENSE file for details.
+
 
 Acknowledgments
-Mention any individuals, libraries, or resources that helped in the development of this project.
+
