@@ -3,7 +3,9 @@ final_relationships_solution.pbix
 
 Overview
 
-This project contains a Power BI report file (final_relationships_solution.pbix) that [describe what the report is about, e.g., "analyzes sales data and visualizes key business metrics"]. The report includes interactive visualizations and insights that help [describe the purpose, e.g., "understand the relationship between various factors affecting sales performance"].
+This project contains a Power BI report file  that describes what the report is about, e.g., "analyzes sales data and visualizes key business metrics. The report includes interactive visualizations and insights that help to describe the purpose, e.g., "understand the relationship between various factors affecting sales performance".
+
+
 
 Features
 
